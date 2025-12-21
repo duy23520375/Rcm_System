@@ -1,3 +1,7 @@
 data/
 venv/
 *.pkl
+**/__pycache__/
+*.pyc
+final_submission.csv
+*.csv
